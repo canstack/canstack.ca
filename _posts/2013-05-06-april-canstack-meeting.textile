@@ -1,0 +1,46 @@
+---
+layout: post
+title: Wrap up of April 2013 CanStack Meeting
+---
+
+
+!http://canstack.ca/images/blog/women_of_openstack_portland.jpg!
+_("women of openstack":http://www.openstack.org/blog/2013/04/women-of-openstack-at-the-portland-summit/ note that this was not taken at our meeting, but rather at the openstack summit in portland)_
+
+p(meta). 6 May - 2013 - Edmonton, and across Canada!
+
+
+h1. {{ page.title }}
+
+On Thursday, April 25th, 2013, we had a small group of people call in from across Canada.
+
+h2. Attendees
+
+* Anita Kuno (Haliburton, ON)
+* Curtis Collicutt (Edmonton)
+* Joe Topjian (Calgary)
+* (4th attendee to be listed soon; I mistyped their contact information)
+
+h2. What we talked about
+
+h3. OpenStack Summit
+
+Both Joe and Anita attended the OpenStack summit. Joe was one of the initial contributors to the "OpenStack Operations Guide":http://docs.openstack.org/ops/ and was in a "panel discussion":http://www.openstack.org/summit/portland-2013/session-videos/presentation/panel-writing-the-openstack-operations-guide-in-5-days at the summit on the guide. He also recently contributed a ton of documetnation to the "OpenStack Basic Install Guide":http://docs.openstack.org/grizzly/basic-install/apt/content/ for Grizzly.
+
+Anita, who currently works at eNovance, was also interviewed a "couple":http://www.youtube.com/watch?v=Pp9XCMArwgE&list=PLenh213llmcbzniwrQd4GmFoZiKYxTZcR&index=29 of times, in part dicussing women in technology.
+
+Some of the things we touched on:
+
+* NetApp perhaps moving away from iSCSI to NFS for supporting OpenStack from a storage perspective
+* Keystone seemed to be pushing towards PKI
+* Multi-region
+* CloudScaling's disucssions on using ZFS and Linux
+
+h2. Next meeting
+
+We hope to have a guest speaker next meeting, and Anita is working on that.
+
+We are also hoping to connect with the "Toronto OpenStack Users group":http://www.meetup.com/OpenStackTO/ so if anyone reading this post has any connections with them, please let us know. :)
+
+Thanks,
+"Curtis":http://twitter.com/serverascode.

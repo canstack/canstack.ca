@@ -1,0 +1,25 @@
+---
+layout: post
+title: This blog is served via object storage
+---
+
+
+!http://blog.canstack.ca/images/blog/cloud_nirak.jpg!
+_("photocredit":http://www.flickr.com/photos/nirak/644336486/)_
+
+p(meta). 12 February - 2013 - Edmonton!
+
+
+h1. {{ page.title }}
+
+
+One of the things I would like to do with CanStack is try to at least serve the website and blog via "cloud" technologies. Currently the main website is running out of a Canadian OpenStack cloud. And now, this blog is being served by "Amazon S3":http://aws.amazon.com/s3/ which is an object storage system that can serve static files such as websites.
+
+It was surprisingly easy to setup this site on S3, so if there are people out there who are unsure as how to use object storage, I encourage you to take another look. The "s3cmd makes syncing directories":http://s3tools.org/s3cmd-sync pretty easy. Hosting a website is not the best application of object storage, but it's one that most people can wrap their heads around, and provides a good entry into using the technology.
+
+Unfortunately, I'm not aware of any Canadian object storage providers that can also provide the functionality of serving static websites via http. If anyone knows of any, please let me know and I would be happy to move this blog to their service.
+
+Over the next while I'll be writing some blog posts about OpenStack and other cloud-related issues, as well as improving the look of the blog, so check back every once and a while. You can also follow CanStack on "twitter":http://twitter.com/canstack.
+
+Thanks,
+"Curtis":http://serverascode.com
