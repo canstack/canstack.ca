@@ -31,6 +31,6 @@ Done!
 
 ## Changes to the site
 
-We would be happy to change the site in any way that our members would like. We're not partial to this website design at all, so feel free to contribute changes to help to make the look and feel of the site, as well as the content, better.
+We would be happy to change the site in any way that our members would like. We're not partial to this website design, nor how the site is built, at all, so feel free to contribute changes to help to make the look and feel of the site, as well as the content, better.
 
 Thanks!
