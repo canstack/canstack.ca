@@ -4,7 +4,7 @@ This is the repository for the Canstack website.
 
 Please note that the HTML and CSS files came from a [commercial template](http://themeforest.net/item/adventure-clean-simple-html-5-template/306473) that was purchased, so those files are not open source and could only be used for other projects if another license was purchased.
 
-Otherwise all the content of the site is [open source](LICENSE).
+Otherwise all the content of the site is [open source](LICENSE.content).
 
 ## To build the site and the blog
 
